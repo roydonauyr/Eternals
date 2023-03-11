@@ -1,4 +1,4 @@
-# Wealth Buddy Web App
+# Wealth Buddy Web App (1st in CitiBank Hackathon)
 ![GitHub](https://img.shields.io/github/license/Interstellarkai/Eternals)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Interstellarkai/Eternals)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Interstellarkai/Eternals)
