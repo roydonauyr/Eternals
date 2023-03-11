@@ -1,4 +1,4 @@
-# Wealth Buddy Web Application
+# Wealth Buddy Web App
 ![GitHub](https://img.shields.io/github/license/Interstellarkai/Eternals)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Interstellarkai/Eternals)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Interstellarkai/Eternals)
